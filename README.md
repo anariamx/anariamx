@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm an Electrical Engineering student at UFES. I'm enthusiastic about robotics, IoT, Data Science, and Machine Learning. 
 
-- 🔭 I'm currently immersed in research at UFES' Assistive Technology Center, where I'm exploring the exciting world of human-robot interaction and cloud-based VR, where I use tools like Unity, C#, and Python to bring ideas to life. 
+- 🔭 I'm currently a research student at UFES' Human Centered System Lab, where I'm exploring cloud-based VR. I use tools like Unity, C#, and Python in this project. 
 - 🌱 I'm currently exploring Data Science and Machine Learning. I'm fascinated by how these areas can positively impact various aspects of our daily lives, making things more efficient.
 - ⚡ I have a keen creative side and love hands-on activities. Painting, drawing, nail art, and recently, I've been really into crafting with cold porcelain. In my downtime, you'll usually find me gaming – Stardew Valley is my all-time favorite – or binge-watching sitcoms, my go-to genre.
 <!--
